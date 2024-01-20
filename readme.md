@@ -9,3 +9,7 @@ By just using plain python and Pyglet to create the graphics.
 - copy the code
 - pip install pyglet
 - python main.py
+
+## Tutorial
+
+Find a full tutorial on [youtube](https://www.youtube.com/@python-for-everyone/videos).
