@@ -2,6 +2,8 @@
 
 ![wave](https://github.com/pythonforeveryonetraining/visualize-wave-file-with-python/blob/main/preview.png)
 
+By just using plain python and Pyglet to create the graphics.
+
 ## Usage:
 
 - copy the code
