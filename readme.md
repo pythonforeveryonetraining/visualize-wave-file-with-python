@@ -1,6 +1,6 @@
 # Visualize a wave file with Python and Pyglet
 
-[wave](https://github.com/pythonforeveryonetraining/visualize-wave-file-with-python/blob/main/preview.png)
+![wave](https://github.com/pythonforeveryonetraining/visualize-wave-file-with-python/blob/main/preview.png)
 
 ## Usage:
 
