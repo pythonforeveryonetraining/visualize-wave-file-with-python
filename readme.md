@@ -12,4 +12,4 @@ By just using plain python and Pyglet to create the graphics.
 
 ## Tutorial
 
-Find a full tutorial on [youtube](https://www.youtube.com/@python-for-everyone/videos).
+Find a full tutorial on [youtube](https://www.youtube.com/watch?v=oSQTBq1fdTE).
